@@ -1,9 +1,3 @@
-# spotify-data-pipeline
-
-Certainly! Below is an example GitHub README for your recently played songs data retrieval and storage script. Feel free to customize it further to match your project's details and requirements.
-
----
-
 # Recently Played Songs Data Retrieval and Storage
 
 This repository contains a Python script that interacts with the Spotify API to retrieve recently played songs and stores them in a SQLite database. The script is organized as a Prefect flow, ensuring a well-structured and efficient data processing workflow.
